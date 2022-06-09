@@ -1,0 +1,567 @@
+﻿    {
+    "Data": [
+      {
+        "Key": "ConfirmEmailSuccessfully",
+        "Template": "حساب کاربری شما با موفقیت فعال گردید"
+      },
+      {
+        "Key": "PasswordResetSuccessfully",
+        "Template": "پسورد شما با موفقیت تغییر یافت"
+      },
+      {
+        "Key": "EmailSuccessfullySent",
+        "Template": "فراموشی رمز عبور با موفقیت برای شما ارسال گردید"
+      },
+      {
+        "Key": "EmailIsAlreadyConfirmed",
+        "Template": "حساب کاربری شما قبلا مورد تایید قرار گرفته است"
+      },
+      {
+        "Key": "ResendSuccessfully",
+        "Template": "ایمیل تایید حساب کاربری شما با موفقیت ارسال شد"
+      },
+      {
+        "Key": "InvalidUserOrPassword",
+        "Template": "نام کاربری یا رمز عبور اشتباه است"
+      },
+      {
+        "Key": "CategoryNotFound",
+        "Template": "دسته بندی مورد نظر شما یافت نشد"
+      },
+      {
+        "Key": "ContentNotFound",
+        "Template": "محتوا مورد نظر شما پیدا نشد"
+      },
+      {
+        "Key": "UserNotFound",
+        "Template": "کاربرمورد نظر شما یافت نشد"
+      },
+      {
+        "Key": "OrderNotFound",
+        "Template": "سفارش مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "ProductAttributeNotFound",
+        "Template": "ویژگی محصول مورد نظر یافت نشد"
+      },
+      {
+        "Key": "ProductAttributeValueNotFound",
+        "Template": "مقدار ویژگی محصول مورد نظر یافت نشد"
+      },
+      {
+        "Key": "CanNotDeleteAdmin",
+        "Template": "اجازه حذف کاربر ادمین وجود ندارد"
+      },
+      {
+        "Key": "ForgotPassword",
+        "Template": "فراموشی رمز عبور"
+      },
+      {
+        "Key": "WrongPassword",
+        "Template": "پسورد اشتباه است"
+      },
+      {
+        "Key": "ActiveCodeExpired",
+        "Template": "کد تایید منقضی شده است"
+      },
+      {
+        "Key": "UserAddressNotFound",
+        "Template": "آدرس مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "UnAuthorized",
+        "Template": "اجازه دسترسی به این قسمت را ندارید"
+      },
+      {
+        "Key": "FaqNotFound",
+        "Template": "سوال مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "SliderNotFound",
+        "Template": "اسلایدر مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "BlogNotFound",
+        "Template": "مقاله مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "EmailIsRequired",
+        "Template": " ایمیل الزامی می باشد "
+      },
+      {
+        "Key": "InvalidEmailFormat",
+        "Template": "فرمت ایمیل صحیح نمی باشد"
+      },
+      {
+        "Key": "FamilyIsRequired",
+        "Template": "نام خانوادگی الزامی می باشد"
+      },
+      {
+        "Key": "NameIsRequired",
+        "Template": "نام الزامی می باشد"
+      },
+      {
+        "Key": "MobileIsRequired",
+        "Template": "موبایل الزامی می باشد"
+      },
+      {
+        "Key": "PasswordIsRequired",
+        "Template": "پسورد الزامی می باشد"
+      },
+      {
+        "Key": "InvalidMobileFormat",
+        "Template": "فرمت موبایل صحیح نمی باشد"
+      },
+      {
+        "Key": "MobileAlreadyExist",
+        "Template": "شماره در سیستم موجود می باشد"
+      },
+      {
+        "Key": "RoleNotFound",
+        "Template": "نقش پیدا نشد"
+      },
+      {
+        "Key": "EmailIsAlreadyExist",
+        "Template": "ایمیل در سامانه موجود می باشد"
+      },
+      {
+        "Key": "ImageIsRequired",
+        "Template": "ارسال عکس اجباری می باشد"
+      },
+      {
+        "Key": "SortOrderIsRequired",
+        "Template": "ارسال عدد اولویت الزامی می باشد"
+      },
+      {
+        "Key": "InvalidDateTimePeriod",
+        "Template": "بازه شروع از پایان نمی تواند بزگتر باشد"
+      },
+      {
+        "Key": "TitleIsRequired",
+        "Template": "وارد کردن عنوان الزامی می باشد"
+      },
+      {
+        "Key": "DescriptionIsRequired",
+        "Template": "وارد کردن توضیحات الزامی می باشد"
+      },
+      {
+        "Key": "FileExtensionNotSupported",
+        "Template": "فرمت فایل ارسالی پشتیبانی نمی شود"
+      },
+      {
+        "Key": "DuplicateSortOrder",
+        "Template": "این شماره اولویت موجود است"
+      },
+      {
+        "Key": "CategoryInUse",
+        "Template": "دسته بندی در حال استفاده می باشد"
+      },
+      {
+        "Key": "OrderNotFound",
+        "Template": "سفارش مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "CanNotChangeDeliveryOrder",
+        "Template": "وضعیت سفارش تحویل داده شده غیر قابل تغییر می باشد"
+      },
+      {
+        "Key": "DiscountCodeNotFound",
+        "Template": "کد تخفیف مورد نظر یافت نشد"
+      },
+      {
+        "Key": "DiscountCodeInUse",
+        "Template": "کد تخفیف در سفارش استفاده شده است"
+      },
+      {
+        "Key": "ProductTemplateInUse",
+        "Template": "قالب در محصول استفاده شده است"
+      },
+      {
+        "Key": "ProductTemplateNotFound",
+        "Template": "قالب محصول یافت نشد "
+      },
+      {
+        "Key": "ProductAttributeNotFound",
+        "Template": "ویژگی محصول یافت نشد"
+      },
+      {
+        "Key": "ValueInUse",
+        "Template": "مقدار ویژگی در محصول استفاده شده است"
+      },
+      {
+        "Key": "AnswerIsRequired",
+        "Template": "مقدار ویژگی در محصول استفاده شده است"
+      },
+      {
+        "Key": "QuestionIsRequired",
+        "Template": "مقدار ویژگی در محصول استفاده شده است"
+      },
+      {
+        "Key": "AttributeIsRequired",
+        "Template": "ارسال ویژگی محصول اجباری است"
+      },
+      {
+        "Key": "CodeIsRequired",
+        "Template": "وارد کردن کد الزامی است"
+      },
+      {
+        "Key": "CodeAlreadyExist",
+        "Template": "این کد در سیستم موجود می باشد"
+      },
+      {
+        "Key": "PriceIsRequired",
+        "Template": "وارد کردن قیمت الزامی است"
+      },
+      {
+        "Key": "CountIsRequired",
+        "Template": "وارد کردن تعداد الزامی می باشد"
+      },
+      {
+        "Key": "ProductNotFound",
+        "Template": "محصول پیدا نشد"
+      },
+      {
+        "Key": "ProductInUse",
+        "Template": "محصول در فاکتور موجود می باشد"
+      },
+      {
+        "Key": "SlugIsRequired",
+        "Template": "وارد کردن اسلاگ اجباری است"
+      },
+      {
+        "Key": "SlugIsExist",
+        "Template": "این اسلاگ در سامانه موجود می باشد"
+      },
+      {
+        "Key": "ProductVariantNotFound",
+        "Template": "ویژگی محصول یافت نشد"
+      },
+      {
+        "Key": "ProductVariantInUse",
+        "Template": "ویژگی محصول در سفارش وجود دارد"
+      },
+      {
+        "Key": "DisplayNameIsRequired",
+        "Template": "نام نمایشی اجباری است"
+      },
+      {
+        "Key": "ValueIsRequired",
+        "Template": "مقدار ویژگی اجباری می باشد"
+      },
+      {
+        "Key": "PriceMustBeGreaterThanZero",
+        "Template": "قیمیت باید بیشتر از صفر باشد"
+      },
+      {
+        "Key": "CommentNotFound",
+        "Template": "کامنت یافت نشد"
+      },
+      {
+        "Key": "CompanyNotFound",
+        "Template": "برند مورد نظر یافت نشد"
+      },
+      {
+        "Key": "CompanyInUse",
+        "Template": "برند در حال استفاده در محصول می باشد"
+      },
+      {
+        "Key": "DuplicateName",
+        "Template": "نام تکراری می باشد"
+      },
+      {
+        "Key": "MessageIsRequired",
+        "Template": "وارد کردن پیام الزامی می باشد"
+      },
+      {
+        "Key": "CanNotDeleteItem",
+        "Template": "مجاز به حذف ایتم نمی باشید"
+      },
+      {
+        "Key": "ItemNotFound",
+        "Template": "ایتم مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "DeliveryPeriodTimeIsRequired",
+        "Template": "انتخاب بازه زمانی الزامی می باشد"
+      },
+      {
+        "Key": "DeliveryDateIsRequired",
+        "Template": "تاریخ ارسال الزامی می باشد"
+      },
+      {
+        "Key": "DiscountCodeInvalid",
+        "Template": "کد تخفیف نامعتبر می باشد"
+      },
+      {
+        "Key": "DiscountCodeExpired",
+        "Template": "کد تخفیف منقضی شده است"
+      },
+      {
+        "Key": "DiscountCodeUsedBefore",
+        "Template": "کد تخفیف قبلا مورد استفاده قرار گرفته است"
+      },
+      {
+        "Key": "BasketEmpty",
+        "Template": "سبد خرید خالی می باشد"
+      },
+      {
+        "Key": "DiffrentLangProduct",
+        "Template": "ایتم های انتخاب شده واحد های پولی مختلف دارند"
+      },
+      {
+        "Key": "CountGreaterThanZero",
+        "Template": "تعداد ایتم انتخابی باید بیشتر از صفر باشد"
+      },
+      {
+        "Key": "ProductNotAvailable",
+        "Template": "محصول مورد نظر موجود نمی باشد"
+      },
+      {
+        "Key": "UnknownErrorInZarinPal",
+        "Template": "تراکنش بانکی ناموفق بود"
+      },
+      {
+        "Key": "SubscriberNotFound",
+        "Template": "دنبال کننده مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "PackageNotFound",
+        "Template": "پکیچ مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "NationalCodeIsRequired",
+        "Template": "کد ملی الزامی است"
+      },
+      {
+        "Key": "NationalCodeMust10Digits",
+        "Template": "کد ملی 10 رقمی می باشد"
+      },
+      {
+        "Key": "BirthDateIsRequired",
+        "Template": "وارد کردن تاریخ تولد الزامی است"
+      },
+      {
+        "Key": "PostalCodeIsRequired",
+        "Template": "وارد کردن کد پستی الزامی است"
+      },
+      {
+        "Key": "NationalCodeAlreadyExist",
+        "Template": "کد ملی در سیستم موجود می باشد"
+      },
+      {
+        "Key": "ProfitIsRequired",
+        "Template": "وارد کردن میزان سود الزامی است"
+      },
+      {
+        "Key": "InvestmentYearIsRequired",
+        "Template": "وارد کردن سال سرمایه گذاری الزامی است"
+      },
+      {
+        "Key": "EfficiencyPriceIsRequired",
+        "Template": "وارد کردن میزان بازدهی سود الزامی است"
+      },
+      {
+        "Key": "LongDescriptionIsRequired",
+        "Template": "وارد کردن توضیحات بیشتر الزامی است"
+      },
+      {
+        "Key": "PriceIsInvalid",
+        "Template": "مقدار قیمت وارد شده با نوع تخفیف انتخاب شده مورد قبول نیست"
+      },
+      {
+        "Key": "MaxSliderReach",
+        "Template": "حداکثر یک اسلایدر قابلیت اجازه فعال بودن را دارد"
+      },
+      {
+        "Key": "ProfitIsRequired",
+        "Template": "وارد کردن درصد سود الزامی است"
+      },
+      {
+        "Key": "InvestmentYearIsRequired",
+        "Template": "وارد کردن مدت زمان سرمایه گذاری الزامی است"
+      },
+      {
+        "Key": "EfficiencyPriceIsRequired",
+        "Template": "وارد کردن بازدهی سود الزامی است"
+      },
+      {
+        "Key": "LongDescriptionIsRequired",
+        "Template": "وارد کردن توضیحات تکمیلی الزامی است"
+      },
+      {
+        "Key": "PriceIsInvalid",
+        "Template": "مبلغ وارد شده نامعتبر می باشد"
+      },
+      {
+        "Key": "OrderNotFound",
+        "Template": "سفارش مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "OrderAlreadyPaid",
+        "Template": "سفارش مورد نظر شما پرداخت شده است"
+      },
+      {
+        "Key": "TransactionFailed",
+        "Template": "تراکنش ناموفق بوده است در صورت کسر وجه طی 72 ساعت آینده وجه باخواهد گشت"
+      },
+      {
+        "Key": "ConsultAlreadyExist",
+        "Template": "شماره شما از قبل در سیستم موجود می باشد کارشناسان در اولین فرصت با شما تماس خواهند گرفت"
+      },
+      {
+        "Key": "ConfirmCodeWrong",
+        "Template": "کد تایید اشتباه می باشد"
+      },
+      {
+        "Key": "ConfirmAlreadySent",
+        "Template": "کد تایید ارسال شده است و تا 2 دقیقه دیگر ارسال کد دیگر مقدور نمی باشد"
+      },
+      {
+        "Key": "PasswordCurrentlyUsed",
+        "Template": "پسورد در گذشته استفاده شده است"
+      },
+      {
+        "Key": "ScoreIsRequired",
+        "Template": "وارد کردن امتیاز الزامی است"
+      },
+      {
+        "Key": "ScoreMustGreaterThanZero",
+        "Template": "امتباز باید بزگر از صفر باشد"
+      },
+      {
+        "Key": "HtmlPartNotFound",
+        "Template": "محتوا مورد نظر یافت نشد"
+      },
+      {
+        "Key": "GiftCardNotFound",
+        "Template": "کارت هدیه مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "DigitalGiftCardNotValid",
+        "Template": "برای صدور کارت دیجیتال وارد کردن شماره همراه و ایمیل الزامی است"
+      },
+      {
+        "Key": "PhysicalCardNotValid",
+        "Template": "برای صدور کارت فیزیکی وارد کردن آدرس و کد پستی الزامی می باشد"
+      },
+      {
+        "Key": "BuyerNameIsRequired",
+        "Template": "وارد کردن نام خریدار الزامی است"
+      },
+      {
+        "Key": "RecipientNameIsRequired",
+        "Template": "وارد کردن نام دریافت کننده کارت هدیه الزامی است"
+      },
+      {
+        "Key": "PriceMustBeGreaterThan10000",
+        "Template": "مبلغ وارد شده باید از 10 هزار تومن بیشتر باشد"
+      },
+      {
+        "Key": "ActiveSlideShow",
+        "Template": "فقط یک اسلایدر به عنوان اسلایدر فعال مورد قبول می باشد"
+      },
+      {
+        "Key": "RecentlySendRequest",
+        "Template": "اخیرا درخواست مشاوره شما ثبت شده است بین هر درخواست حداقل 2 دقیقه زمان لازم می باشد"
+      },
+      {
+        "Key": "AgeIsRequired",
+        "Template": "وارد کردن سن الزامی است"
+      },
+      {
+        "Key": "PasswordNotSet",
+        "Template": "پسورد برای شما از طرف ادمین تنظیم نشده است"
+      },
+      {
+        "Key": "ChildrenCategoryInUse",
+        "Template": "یکی از زیر دسته ها در محصول استفاده شده است"
+      },
+      {
+        "Key": "ChildrenCategoryInUse",
+        "Template": "یکی از زیر دسته ها در محصول استفاده شده است"
+      },
+      {
+        "Key": "SmsNotSend",
+        "Template": "سرویس پیامک دچار مشکل شده است لطفا بعدا مراجعه فرمایید"
+      },
+      {
+        "Key": "QuotationNumberIsEmpty",
+        "Template": "سفارش به صورت موفق در سامانه سولیکو ثبت نشده است"
+      },
+      {
+        "Key": "UnHandledError",
+        "Template": "خطای وب سرویس لطفا دقایقی دیگر مجدادا تلاش نمایید"
+      },
+      {
+        "Key": "SailedOrderNotCreateInSolico",
+        "Template": "سفارش فروش در سامانه برای شما ثبت نشده است"
+      },
+      {
+        "Key": "SolicoCustomerIdIsRequired",
+        "Template": "وارد کردن شماره مشتری در سامانه سولیکو الزامی است"
+      },
+      {
+        "Key": "FullNameIsRequired",
+        "Template": "وارد کردن نام الزامی می باشد"
+      },
+      {
+        "Key": "CustomerAlreadyExist",
+        "Template": "این مشتری قبلا در سامانه ثبت شده است"
+      },
+      {
+        "Key": "CustomerIsDeactivate",
+        "Template": "دسترسی شما غیر فعال شده است لطفا با ادمین تماس حاصل فرمایید"
+      },
+      {
+        "Key": "PasswordRecentlyUsed",
+        "Template": "این پسورد به تازگی استفاده شده است"
+      }
+    ,
+      {
+        "Key": "MessageNotFound",
+        "Template": "پیام مورد نظر پیدا نشد"
+      },
+      {
+        "Key": "deleteMessageNotAllowed",
+        "Template": "اجازه حذف پیام وجود ندارد"
+      },
+      {
+        "Key": "AccessMessageDenied",
+        "Template": "اجازه دسترسی به این پیام وجود ندارد"
+      },
+      {
+        "Key": "UnknownErrorPortal",
+        "Template": "خطای در درگاه پرداخت"
+      },
+      {
+        "Key": "OrderAlreadyPaid",
+        "Template": "سفارش از قبل پرداخت شده است"
+      },
+      {
+        "Key": "CustomerHasAlreadyRegisterForConsult",
+        "Template": "درخواست شما برای مشاوره از قبل ثبت شده است"
+      },
+      {
+        "Key": "ContentIsRequired",
+        "Template": "وارد کردن مجتوای پیام الزامی می باشد"
+      }
+    ,
+      {
+        "Key": "InvalidToken",
+        "Template": "توکن معتبر نمی باشد"
+      },
+      {
+        "Key": "TokenExpired",
+        "Template": "توکن شما منقضی شده است"
+      }
+    ,
+      {
+        "Key": "CancelOrderNotAllowed",
+        "Template": "اجازه کنسل کردن بعد از ثبت sails order  وجود ندارد"
+      },
+      {
+        "Key": "CategoryHasChildren",
+        "Template": "دسته پدر می باشد ابتدا فرزند ها را جا به جا کنید"
+      }
+    ]
+  }
